@@ -1,6 +1,6 @@
 
 
-The data is currently being stored to local storage.  This should be replaced by a backend database.  I was not able to create any units or run my linting.  If I had more time I would create the unit tests, linting and clean up the look and feel and make it responsive.
+The data is currently being stored to local storage.  This should be replaced by a backend database.  I was not able to create any unit tests or run my linting.  If I had more time I would create the unit tests, do linting and clean up the look and feel and also make it responsive.
 
 # CarWash
 
