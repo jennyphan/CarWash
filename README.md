@@ -1,3 +1,7 @@
+
+Instructions to Run
+The data is currently being stored to local storage.  This should be replaced by a backend database.  I was not able to create any units or run my linting.  If I had more time I would create the unit tests, linting and clean up the look and feel and make it responsive.
+
 # CarWash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
