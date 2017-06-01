@@ -1,0 +1,25 @@
+<div class="col-xs-10 col-md-offset-1">
+    <h2>Last 10 Transactioins</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>License Plate</th>
+                <th>Vehicle Type</th>
+                <th>Mud In Bed</th>
+                <th>Truck Bed Up</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let vehicle of vehicles">
+                
+                    <td>{{vehicle.vehicleId}}</td>
+                    <td>{{vehicle.vehicleType}}</td>
+                    <td>{{vehicle.mudInBed}}</td>
+                    <td>{{vehicle.bedUp}}</td>
+                    <td>{{vehicle.price}}</td>
+                </tr>
+           
+        </tbody>
+    </table>
+</div>
